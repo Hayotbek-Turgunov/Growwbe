@@ -265,9 +265,6 @@ margin-bottom: 54px;
   color: #fff;
   margin-bottom: 50px;
 }
-#media{
-
-}
 .media-img{
   width: 60%;
 }
@@ -378,7 +375,7 @@ margin-bottom: 55px;
   padding: 15px 50px;
 }
 
-
+/* plans */
 
 #plans{
   background-color: #FAFAFA;
@@ -573,8 +570,6 @@ margin-bottom: 52px;
 .testimonials-container {
   display: flex;
   justify-content: space-between;
-
-
 }
 .testimonials-card {
   width: 520px;
