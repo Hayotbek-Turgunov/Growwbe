@@ -692,8 +692,6 @@ margin-bottom: 52px;
 .site-footer-content-list{
   display: flex;
   list-style: none;
-
-
 }
 .site-footer-content-item{
   width: 25px;
@@ -740,6 +738,4 @@ margin-bottom: 52px;
   font-size: 16px;
   line-height: 230%;
   color: #888888;
-
-
 }
